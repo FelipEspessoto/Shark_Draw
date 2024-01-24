@@ -1,6 +1,4 @@
-👉 This is a parallax, an exercise to practice using one of the many styles that CSS has.
-<br>
-😁 In carrying out this exercise I took the opportunity to relate about Corinthians, the club I support.
+👉 This is a CSS design, using a variety of techniques to form images.
 <br>
 ❕The image (1) represents the site used as an example and the following images (2, 3, 4) are the ones taken.
 <br>
